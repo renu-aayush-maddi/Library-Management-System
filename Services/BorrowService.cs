@@ -91,7 +91,7 @@ public class BorrowService
 
                     Borrowdate = DateOnly.FromDateTime(DateTime.Now),
 
-                    Duedate = DateOnly.FromDateTime(DateTime.Now.AddDays(member.Membershiptype.Borrowdays)),
+                    Duedate = DateOnly.FromDateTime(DateTime.Now.AddDays(member.Membershiptype.Maxborrowdays)),
 
                     Status = BorrowStatus.borrowed
                 };

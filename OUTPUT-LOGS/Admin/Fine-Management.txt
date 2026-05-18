@@ -1,0 +1,108 @@
+===== LIBRARY SYSTEM =====
+1. Admin
+2. User
+3. Exit
+Choose option: 1
+
+===== ADMIN MENU =====
+1. Member Management
+2. Borrow Book
+3. Return Book
+4. Book Management
+5. Fine Management
+6. Reports
+7. Exit
+Choose option: 5
+
+===== FINE MANAGEMENT =====
+1. View Pending Fines
+2. Pay Fine
+3. View Fine History
+4. Calculate Total Fine
+5. Exit
+Choose option: 1
+Member Id: 7
+
+Fine Id : 7
+Amount  : 500.00
+Reason  : Lost book fine
+
+===== FINE MANAGEMENT =====
+1. View Pending Fines
+2. Pay Fine
+3. View Fine History
+4. Calculate Total Fine
+5. Exit
+Choose option: 2
+Fine Id: 1
+Amount: 10
+Payment Mode: cash
+==============================
+Error: Fine already paid
+==============================
+
+===== FINE MANAGEMENT =====
+1. View Pending Fines
+2. Pay Fine
+3. View Fine History
+4. Calculate Total Fine
+5. Exit
+Choose option: 2
+Fine Id: 6
+Amount: 150
+Payment Mode: upi
+==============================
+Error: Pending amount is only 100.00
+==============================
+
+===== FINE MANAGEMENT =====
+1. View Pending Fines
+2. Pay Fine
+3. View Fine History
+4. Calculate Total Fine
+5. Exit
+Choose option: 2
+Fine Id: 8
+Amount: 20
+Payment Mode: UPI
+Fine paid successfully
+
+===== FINE MANAGEMENT =====
+1. View Pending Fines
+2. Pay Fine
+3. View Fine History
+4. Calculate Total Fine
+5. Exit
+Choose option: 3
+Member Id: 1
+
+Fine Id : 1
+Total   : 10.00
+Paid    : 10.00
+Pending : 0.00
+Status  : Paid
+
+Fine Id : 9
+Total   : 200.00
+Paid    : 0.00
+Pending : 200.00
+Status  : Pending
+
+===== FINE MANAGEMENT =====
+1. View Pending Fines
+2. Pay Fine
+3. View Fine History
+4. Calculate Total Fine
+5. Exit
+Choose option: 4
+Member Id: 1
+
+Total Fine for Member 1 : 200.00
+
+===== FINE MANAGEMENT =====
+1. View Pending Fines
+2. Pay Fine
+3. View Fine History
+4. Calculate Total Fine
+5. Exit
+Choose option: 

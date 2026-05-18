@@ -1,0 +1,185 @@
+===== LIBRARY SYSTEM =====
+1. Admin
+2. User
+3. Exit
+Choose option: 1
+
+===== ADMIN MENU =====
+1. Member Management
+2. Borrow Book
+3. Return Book
+4. Book Management
+5. Fine Management
+6. Reports
+7. Exit
+Choose option: 6
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 1
+
+Book     : test
+Member   : Renu Kumar
+Due Date : 22-05-2026
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 2
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 3
+
+Member  : Renu Kumar
+Pending : 100.00
+
+Member  : Sneha Reddy
+Pending : 500.00
+
+Member  : aayush
+Pending : 200.00
+
+Member  : Aayush Sharma
+Pending : 1000.00
+
+Member  : Renu Kumar
+Pending : 210.00
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 4
+
+Book   : a night with devil
+Count  : 6
+
+Book   : test
+Count  : 2
+
+Book   : Computer Networks
+Count  : 2
+
+Book   : Clean Code
+Count  : 1
+
+Book   : Java Complete Reference
+Count  : 1
+
+Book   : Introduction to Algorithms
+Count  : 1
+
+Book   : Deep Learning
+Count  : 0
+
+Book   : Automate the Boring Stuff
+Count  : 0
+
+Book   : Python for Data Analysis
+Count  : 0
+
+Book   : demo
+Count  : 0
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 5
+Category Id: 3
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 5
+Category Id: 1
+
+2 - a night with devil
+
+7 - Introduction to Algorithms
+
+9 - Automate the Boring Stuff
+
+10 - The C Programming Language
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 6
+Member Id: 1
+
+Book     : a night with devil
+Borrowed : 18-05-2026
+Returned : 18-05-2026
+Status   : returned
+
+Book     : a night with devil
+Borrowed : 17-05-2026
+Returned : 17-05-2026
+Status   : returned
+
+Book     : a night with devil
+Borrowed : 12-05-2026
+Returned : 17-05-2026
+Status   : returned
+
+Book     : a night with devil
+Borrowed : 11-05-2026
+Returned : 17-05-2026
+Status   : returned
+
+Book     : a night with devil
+Borrowed : 10-05-2026
+Returned : 17-05-2026
+Status   : returned
+
+Book     : test
+Borrowed : 01-05-2026
+Returned : 18-05-2026
+Status   : returned
+
+===== REPORTS =====
+1. Books Currently Borrowed
+2. Overdue Books
+3. Members with Pending Fines
+4. Most Borrowed Books
+5. Available Books by Category
+6. Member Borrowing History
+0. Back
+Choose option: 

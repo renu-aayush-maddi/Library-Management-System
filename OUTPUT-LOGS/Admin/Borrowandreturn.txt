@@ -1,0 +1,53 @@
+===== LIBRARY SYSTEM =====
+1. Admin
+2. User
+3. Exit
+Choose option: 1
+
+===== ADMIN MENU =====
+1. Member Management
+2. Borrow Book
+3. Return Book
+4. Book Management
+5. Fine Management
+6. Reports
+7. Exit
+Choose option: 2
+Member Id: 16
+Copy Id: 10
+Book borrowed successfully
+
+===== ADMIN MENU =====
+1. Member Management
+2. Borrow Book
+3. Return Book
+4. Book Management
+5. Fine Management
+6. Reports
+7. Exit
+Choose option: 3
+Borrow Id: 25
+
+Return Type
+1. Normal
+2. Damaged
+3. Lost
+Choose option: 1
+===============================
+Due Date    : 02-06-2026
+Return Date : 18-05-2026
+Delayed Days: -15
+===============================
+==============================
+Book returned successfully
+==============================
+
+===== ADMIN MENU =====
+1. Member Management
+2. Borrow Book
+3. Return Book
+4. Book Management
+5. Fine Management
+6. Reports
+7. Exit
+Choose option: 

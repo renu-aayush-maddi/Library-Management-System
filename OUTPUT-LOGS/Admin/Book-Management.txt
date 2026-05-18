@@ -1,0 +1,280 @@
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 1
+Title: demo
+ISBN: 4455
+Published Year: 2005
+Category Id: 3
+Publisher: demo
+Description: demo
+Book added successfully
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 2
+Book Id: 15
+Copy Code: 9988
+Shelf Location: C2
+Book copy added successfully
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 3
+
+Book Id : 2
+Title   : a night with devil
+ISBN    : 2233
+Category: Horror
+Publisher: maddi
+
+Book Id : 3
+Title   : test
+ISBN    : 3333
+Category: Horror
+Publisher: rad
+
+Book Id : 4
+Title   : Clean Code
+ISBN    : ISBN1001
+Category: Horror
+Publisher: Prentice Hall
+
+Book Id : 5
+Title   : Java Complete Reference
+ISBN    : ISBN1002
+Category: Horror
+Publisher: McGraw Hill
+
+Book Id : 6
+Title   : Computer Networks
+ISBN    : ISBN1003
+Category: Database
+Publisher: Pearson
+
+Book Id : 7
+Title   : Introduction to Algorithms
+ISBN    : ISBN1004
+Category: Horror
+Publisher: MIT Press
+
+Book Id : 8
+Title   : Deep Learning
+ISBN    : ISBN1005
+Category: Programming
+Publisher: MIT Press
+
+Book Id : 9
+Title   : Automate the Boring Stuff
+ISBN    : ISBN1006
+Category: Horror
+Publisher: No Starch Press
+
+Book Id : 10
+Title   : The C Programming Language
+ISBN    : ISBN1007
+Category: Horror
+Publisher: Pearson
+
+Book Id : 11
+Title   : Operating System Concepts
+ISBN    : ISBN1008
+Category: Data Science
+Publisher: Wiley
+
+Book Id : 12
+Title   : SQL for Beginners
+ISBN    : ISBN1009
+Category: comedy
+Publisher: Oracle Press
+
+Book Id : 13
+Title   : Python for Data Analysis
+ISBN    : ISBN1010
+Category: Networking
+Publisher: OReilly
+
+Book Id : 15
+Title   : demo
+ISBN    : 4455
+Category: Programming
+Publisher: demo
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 4
+
+==============================================================
+                    AVAILABLE BOOKS
+==============================================================
+
+ID    TITLE                               CATEGORY        COPIES
+-----------------------------------------------------------------
+7     Introduction to Algorithms          Horror          1    
+9     Automate the Boring Stuff           Horror          1    
+10    The C Programming Language          Horror          1    
+2     a night with devil                  Horror          3    
+15    demo                                Programming     1    
+
+==============================================================
+Total Available Books : 5
+==============================================================
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 5
+Enter title/author/category: horr
+
+================================================================================================
+                                      SEARCH RESULTS : HORR
+================================================================================================
+
+ID    TITLE                               CATEGORY             ISBN                
+------------------------------------------------------------------------------------------
+2     a night with devil                  Horror               2233                
+3     test                                Horror               3333                
+4     Clean Code                          Horror               ISBN1001            
+5     Java Complete Reference             Horror               ISBN1002            
+7     Introduction to Algorithms          Horror               ISBN1004            
+9     Automate the Boring Stuff           Horror               ISBN1006            
+10    The C Programming Language          Horror               ISBN1007            
+
+================================================================================================
+Total Results : 7
+================================================================================================
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 6
+Copy Id: 15
+Book copy marked damaged
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 7
+Category Name: demo-category
+Description: demo
+Category added successfully
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 8
+
+Category Id   : 1
+Category Name : Horror
+Description   : not for people with weak heart
+
+Category Id   : 2
+Category Name : comedy
+Description   : funny books
+
+Category Id   : 3
+Category Name : Programming
+Description   : Books related to coding and software development
+
+Category Id   : 4
+Category Name : Database
+Description   : Database management and SQL books
+
+Category Id   : 5
+Category Name : Artificial Intelligence
+Description   : AI and Machine Learning books
+
+Category Id   : 6
+Category Name : Networking
+Description   : Computer networking concepts
+
+Category Id   : 7
+Category Name : Web Development
+Description   : Frontend and backend development
+
+Category Id   : 8
+Category Name : Data Science
+Description   : Analytics and data processing
+
+Category Id   : 9
+Category Name : Cyber Security
+Description   : Security and ethical hacking
+
+Category Id   : 10
+Category Name : Operating Systems
+Description   : OS concepts and internals
+
+Category Id   : 11
+Category Name : demo-category
+Description   : demo
+
+===== BOOK MANAGEMENT =====
+1. Add Book
+2. Add Book Copy
+3. View All Books
+4. View Available Books
+5. Search Books
+6. Mark Damaged Copy
+7. Add Category
+8. View Categories
+9. Exit
+Choose option: 

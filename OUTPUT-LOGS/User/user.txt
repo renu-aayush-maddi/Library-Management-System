@@ -1,0 +1,206 @@
+(base) PS C:\Users\renua\OneDrive\Desktop\LibraryManagementSystem> dotnet run
+
+===== LIBRARY SYSTEM =====
+1. Admin
+2. User
+3. Exit
+Choose option: 2
+Enter Member Id: 1
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 
+ *  History restored 
+
+Warning: PowerShell detected that you might be using a screen reader and has disabled PSReadLine for compatibility purposes. If you want to re-enable it, run 'Import-Module PSReadLine'.
+
+(base) PS C:\Users\renua\OneDrive\Desktop\LibraryManagementSystem> dotnet run
+
+===== LIBRARY SYSTEM =====
+1. Admin
+2. User
+3. Exit
+Choose option: 2
+Enter Member Id: 1
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 1
+
+===== PROFILE =====
+Id      : 1
+Name    : aayush
+Email   : aayush@gmail.com
+Phone   : 1234567890
+Address : guntur
+Active  : True
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 2
+
+Book Id          : 7
+Title            : Introduction to Algorithms
+Available Copies : 1
+
+Book Id          : 9
+Title            : Automate the Boring Stuff
+Available Copies : 1
+
+Book Id          : 10
+Title            : The C Programming Language
+Available Copies : 1
+
+Book Id          : 2
+Title            : a night with devil
+Available Copies : 3
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 3
+Enter title/category: horr
+
+Book Id      : 2
+Title        : a night with devil
+Publisher    : maddi
+Published Yr : 2005
+
+Book Id      : 3
+Title        : test
+Publisher    : rad
+Published Yr : 2004
+
+Book Id      : 4
+Title        : Clean Code
+Publisher    : Prentice Hall
+Published Yr : 2008
+
+Book Id      : 5
+Title        : Java Complete Reference
+Publisher    : McGraw Hill
+Published Yr : 2020
+
+Book Id      : 7
+Title        : Introduction to Algorithms
+Publisher    : MIT Press
+Published Yr : 2009
+
+Book Id      : 9
+Title        : Automate the Boring Stuff
+Publisher    : No Starch Press
+Published Yr : 2019
+
+Book Id      : 10
+Title        : The C Programming Language
+Publisher    : Pearson
+Published Yr : 1988
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 4
+==============================
+No borrowed books
+==============================
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 5
+
+Fine Id : 9
+Amount  : 200.00
+Reason  : Book damaged
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 6
+
+Fine Id : 1
+Total   : 10.00
+Paid    : 10.00
+Pending : 0.00
+Status  : Paid
+
+Fine Id : 9
+Total   : 200.00
+Paid    : 0.00
+Pending : 200.00
+Status  : Pending
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 7
+
+Total Fine : 200.00
+
+===== USER MENU =====
+1. View Profile
+2. View Available Books
+3. Search Books
+4. View My Borrowed Books
+5. View Pending Fines
+6. View Fine History
+7. Calculate Total Fine
+8. Exit
+Choose option: 8
+
+===== LIBRARY SYSTEM =====
+1. Admin
+2. User
+3. Exit
+Choose option: 

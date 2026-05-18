@@ -1,0 +1,101 @@
+===== LIBRARY SYSTEM =====
+1. Admin
+2. User
+3. Exit
+Choose option: 1
+
+===== ADMIN MENU =====
+1. Member Management
+2. Borrow Book
+3. Return Book
+4. Book Management
+5. Fine Management
+6. Reports
+7. Exit
+Choose option: 1
+
+===== MEMBER MANAGEMENT =====
+1. View Members
+2. Add Member
+3. Search Member
+4. Update Membership
+5. Deactivate Member
+6. Exit
+Choose option: 1
+========================================
+           MEMBERS LIST
+========================================
+4 - Aayush Sharma
+5 - Renu Kumar
+6 - Rahul Verma
+7 - Sneha Reddy
+8 - Kiran Rao
+9 - Anjali Mehta
+10 - Varun Teja
+11 - Pooja Singh
+12 - rajesh
+13 - kaju
+1 - aayush
+2 - raju
+
+===== MEMBER MANAGEMENT =====
+1. View Members
+2. Add Member
+3. Search Member
+4. Update Membership
+5. Deactivate Member
+6. Exit
+Choose option: 2
+Name: demo1
+Email: demo1@gmail.com
+Phone: 2233443344
+Address: guntur
+Membership Type Id: 3
+Member added successfully
+
+===== MEMBER MANAGEMENT =====
+1. View Members
+2. Add Member
+3. Search Member
+4. Update Membership
+5. Deactivate Member
+6. Exit
+Choose option: 3
+Enter keyword: aay
+Id: 4
+Name: Aayush Sharma
+Email: aayush1@gmail.com
+Phone: 9876543210
+Membership: Basic
+
+===== MEMBER MANAGEMENT =====
+1. View Members
+2. Add Member
+3. Search Member
+4. Update Membership
+5. Deactivate Member
+6. Exit
+Choose option: 4
+Member Id: 4
+New Membership Type Id: 3
+Membership updated successfully
+
+===== MEMBER MANAGEMENT =====
+1. View Members
+2. Add Member
+3. Search Member
+4. Update Membership
+5. Deactivate Member
+6. Exit
+Choose option: 5
+Member Id: 13
+Member deactivated successfully
+
+===== MEMBER MANAGEMENT =====
+1. View Members
+2. Add Member
+3. Search Member
+4. Update Membership
+5. Deactivate Member
+6. Exit
+Choose option: 
